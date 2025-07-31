@@ -3,7 +3,7 @@
 <p>A desktop app built with <strong>Python & Tkinter</strong> that lets you track daily expenses in multiple currencies. Automatically converts all entries to USD using real-time exchange rates. Stores data in a local JSON file and supports category, payment method, and date tracking.</p>
 
 <h2>📸 Screenshot</h2>
-<p><img src="Screenshot.png " width="600"/> The Expense Tracker App</p>
+<img src="Screenshot.png " width="600"/> 
 
 <h2>✨ Features</h2>
 <ul>
